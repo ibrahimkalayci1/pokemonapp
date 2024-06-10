@@ -1,6 +1,2 @@
 # pokemon
-# pokemon
-# pokemon
-# pokemon
-# pokemonapp
-# pokemonapp
+![](/pokemon.gif)
